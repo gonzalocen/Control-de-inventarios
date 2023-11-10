@@ -1,6 +1,3 @@
-# UCASAL - Programación II
-# Autor: Gonzalo Martín Cendoya
-
 import csv
 import numpy as np
 import matplotlib.pyplot as plt
